@@ -1,0 +1,11 @@
+Project Title
+
+Cinematic Narrator AI: Making Movies Accessible Through BigQuery AI
+
+Problem Statement
+
+Blind and visually impaired audiences often struggle to fully experience films because existing audio descriptions are limited, inconsistent, and frequently overlook the subtleties of body language, scene composition, and emotional context. Traditional solutions tend to narrate only literal actions, missing the artistic cues that help sighted viewers immerse themselves in a story. This creates an accessibility gap where cinema’s emotional depth and creative intent are not equally conveyed.
+
+Impact Statement
+
+Our project leverages BigQuery AI’s multimodal capabilities to bridge this gap by generating rich, narrative-style scene descriptions that combine dialogue, environmental sounds, character presence, facial emotions, and visual objects. The result is a more immersive and inclusive storytelling experience, enabling blind audiences to perceive not just what is spoken, but also the atmosphere, emotional tone, and dramatic weight of each scene. Beyond film accessibility, this innovation demonstrates how multimodal AI can transform entertainment, education, and cultural engagement, ultimately expanding inclusivity for millions of people worldwide

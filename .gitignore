@@ -1,0 +1,44 @@
+# --- Python env & caches ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Project outputs / artifacts ---
+mvp_outputs/
+separated/
+whisper/
+yolo_cache/
+*.log
+
+# --- Checkpoints & models ---
+*.pt
+*.pth
+*.onnx
+
+# --- Large media ---
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.flac
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.webp
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- VSCode / IDE ---
+.vscode/
+.idea/
